@@ -1,0 +1,1 @@
+The Firebase SDKs sometimes throw errors that are not very descriptive, making debugging difficult.  For example, an authentication error might simply say "Error: Auth failed." without specifying the type of failure. This can happen across different platforms (web, iOS, Android).
